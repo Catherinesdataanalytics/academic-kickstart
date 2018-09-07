@@ -17,24 +17,27 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Science in Business Statistics"
+  institution = "University of Maryland"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Information System"
+  institution = "university of California LosAngeles"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Economics & Statistics"
+  institution = "Guangdong University of Foreign Studies"
+  year = 2012 - 2016
+
 +++
 
 # Biography
+Passionate in data engineering and proficient in programming in Python. Incoming 2018 Dec. Business Analytics graduate at University of Maryland. Currently working as research assistant on several DeepLearning projects. With work experience in data engineering and data wrangling.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+▪ Python (Libraries: NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, NLTK, Keras); R
+▪ Data WareHouse: SQL, MS SQL Server, SSIS, MySQL, MongoDB
+▪ Big Data: Hadoop, MapReduce, Spark, PySpark, Pig, Hive, Impala, AWS, GCP
+▪ Front End: Javascript, jQuery, AngularJS, HTML&CSS
+▪ Data Visualization: Tableau, PowerBI, D3.js
